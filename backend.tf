@@ -3,7 +3,7 @@
 #     bucket = "jdfhdhfdf2546"
 #     key    = "dre.tfstate"
 #     region = "us-west-2"
-#     profile = "jespo"
+#     profile = "tgu"
 # dynamodb= "terraformtable"
 #    }
 #  }
