@@ -4,7 +4,7 @@
 #     key    = "dre.tfstate"
 #     region = "us-west-2"
 #     profile = "tgu"
-# dynamodb= "terraformtable"
+# dynamodb_table= "terraformtable"
 #    }
 #  }
 
